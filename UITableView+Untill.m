@@ -8,7 +8,7 @@
 
 #import "UITableView+Untill.h"
 #import <objc/runtime.h>
-#import <MJRefresh.h>
+
 static const NSString *STRING_KEY = @"STRING_KEY";
 @implementation UITableView (Untill)
 
